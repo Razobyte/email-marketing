@@ -1,6 +1,6 @@
 import { useState } from "react";
 // import Navbar from "./Components/NavbarPage/Navbar";
-import Home from "./Components/HomePage/Home";
+// import Home from "./Components/HomePage/Home";
 import HomeBoxes from "./Components/HomeBoxes/HomeBoxes";
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       {/* <Navbar /> */}
-      <Home/>
+      {/* <Home/> */}
       <HomeBoxes/>
     </>
   );
